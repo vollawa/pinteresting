@@ -1,5 +1,5 @@
 # Pinteresting
 
-This is the pinteresting sample application for [*Manekind*](http://manekind.com)
+This is the sample application for [*Carder - The Business Card Networking*](http://manekind.com). 
 
 by [Valentine Ollawa]
